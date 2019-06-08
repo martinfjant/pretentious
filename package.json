@@ -1,0 +1,17 @@
+{
+  "name": "pretentious",
+  "version": "1.0.0",
+  "description": "A stylish and timeless theme",
+  "main": "index.js",
+  "author": "Martin Falk Johansson",
+  "license": "MIT",
+  "dependencies": {
+    "tailwind": "^4.0.0",
+    "tailwindcss": "^1.0.2",
+    "tailwindcss-children": "^1.0.0",
+    "tailwindcss-typography": "^2.1.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
